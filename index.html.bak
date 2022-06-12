@@ -1,0 +1,125 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Beth Kanne-Casselman, MFT | Licensed Marriage and Family Therapist, Santa Barbara, CA</title>
+<link rel="shortcut icon" href="http://www.santabarbarafamilytherapy.com/favicon.ico" />
+<link href="mftmain.css" rel="stylesheet" type="text/css" /><!--[if IE 5]>
+<style type="text/css"> 
+/* place css box model fixes for IE 5* in this conditional comment */
+.thrColFixHdr #sidebar1 { width: 300px; }
+.thrColFixHdr #sidebar2 { width: 502px; }
+</style>
+<![endif]--><!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+.thrColFixHdr #sidebar2, .thrColFixHdr #sidebar1 { padding-top: 0px; }
+.thrColFixHdr #mainContent { zoom: 1; }
+/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+</style>
+<![endif]-->
+<script src="SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<link href="SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body class="thrColFixHdr" onload="MM_preloadImages('images/index-image-family-hover.jpg','images/index-image-stones-hover.jpg','images/index-image-maninchair-hover.jpg')">
+
+<div id="container">
+  <div id="header">
+  <a href="index.html"><img src="images/bethmft_logo.jpg" width="231" height="114" border="0" align="left" /></a>
+    <h1>BETH KANNE-CASSELMAN, MEd, LMFT</h1>
+    <p>Licensed Marriage &amp; Family Therapist<br />
+      Educational Consultant<br />
+    License# MFC41818</p>
+  </div><!-- end #header -->
+  <div id="headerGap"></div>
+  <div id="mainContentHome"><!-- end #sidebar1 -->
+    <div id="column1">
+    <div id="HomeQuote"><em>&quot;The aim of soul work is not adjustment to accepted norms or a statistical framework. The goal is a richly elaborated life connected to society and nature. The idea is not to be superficially adjusted, but to be profoundly connected in the heart.&quot; </em>~Thomas Moore<br />
+    </div>
+    <div id="photo"><img src="images/beth-kanne-casselman.jpg" width="100" height="132" alt="Beth Kaane-Cassleman" /></div>
+<div id="mainContentHomeText">
+        <ul>
+          <li>Are you ready to make some deep, long term changes?</li>
+          <li>Is your family life in need of devoted attention?</li>
+          <li>Are you concerned about your child’s development, performance in school, and/or behavior at home and with peers?</li>
+        </ul>
+<p>If you've answered yes to these questions, and you are ready embark on the path of change, I can help you to develop the life skills and parenting methods that will enable you and your family to grow and flourish.<br /> 
+            <br />
+        What I bring to the  process is a background as a private psychotherapist&nbsp;with 17 years in the field of education.</p>
+        <p>I work with parents and children, individually and together, as  well as couples and individuals.  </p>
+        <p>My goal is to help you achieve your goals by exploring your unique way of being in the world. Together we will link early experiences to current challenges, paving the way for a more reflective, rewarding, and fulfilling life.</p>
+</div>
+    </div> 
+    <div id="column2">
+      <div id="navBar">
+        <ul id="MenuBar1" class="MenuBarHorizontal">
+          <li><a href="index.html">Home</a></li>
+          <li><a class="MenuBarItemSubmenu" href="#">Services</a>
+            <ul>
+              <li><a href="counseling.html">Counseling</a></li>
+              <li><a href="educational-consulting.html">Educational Consulting</a></li>
+              <li><a href="parenting.html">Parenting</a></li>
+            </ul>
+          </li>
+          <li><a href="sb-family-therapy-faqs.html" class="MenuBarItemSubmenu">FAQS</a>
+            <ul>
+<li><a href="fees-and-insurance.html">Fees &amp; Insurance</a></li>
+<li><a href="depression-and-anxiety.html">Depression &amp; Anxiety</a></li>
+            </ul>
+          </li>
+<li><a href="sb-family-therapy-forms.html">Forms</a></li>
+          <li><a href="sb-family-therapy-resources.html">Resources</a>          </li>
+          <li><a href="contact-beth-kanne-casselman.html" class="MenuBarItemSubmenu">Contact</a>
+            <ul>
+              <li><a href="#">Blog</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+      <div id="column2ContentHome"> 
+      <div id="column2ContentHomeHeading"><span class="homepgh2"><a href="parenting.html" onmouseover="MM_swapImage('family','','images/index-image-family-hover.jpg',1)" onmouseout="MM_swapImgRestore()">PARENTING</a></span><img src="images/no-circle.gif" width="15" height="11" hspace="10" /><span class="homepgh2"><a href="educational-consulting.html" onmouseover="MM_swapImage('stones','','images/index-image-stones-hover.jpg',1)" onmouseout="MM_swapImgRestore()">EDUCATIONAL CONSULTING</a></span><img src="images/no-circle.gif" width="15" height="11" hspace="10" /><span class="homepgh2"><a href="counseling.html" onmouseover="MM_swapImage('chair','','images/index-image-maninchair-hover.jpg',1)" onmouseout="MM_swapImgRestore()">COUNSELING</a></span></div>
+      <a href="parenting.html"><img src="images/index-image-family.jpg" alt="Beth Kanne-Casselman Parenting " name="family" width="285" height="515" border="0" align="left" id="family" onmouseover="MM_swapImage('family','','images/index-image-family-hover.jpg',1)" onmouseout="MM_swapImgRestore()" /></a><a href="educational-consulting.html"><img src="images/index-image-stones.jpg" alt="Beth Kanne-Casselman Educational Consulting" name="stones" width="80" height="515" border="0" align="left" id="stones" onmouseover="MM_swapImage('stones','','images/index-image-stones-hover.jpg',1)" onmouseout="MM_swapImgRestore()" /></a><a href="counseling.html"><img src="images/index-image-maninchair.jpg" alt="Beth Kanne-Casselman Counseling" name="chair" width="118" height="515" border="0" align="left" id="chair" onmouseover="MM_swapImage('chair','','images/index-image-maninchair-hover.jpg',1)" onmouseout="MM_swapImgRestore()" /></a></div>
+    </div>
+  </div>
+  </div><!-- end #mainContent -->
+  <div id="footerGap"></div>
+<!-- end #container --></div>
+<div id="footer">
+	<div id="footerImage"><a href="http://www.camft.org/am/Template.cfm?Section=home" target="_blank"><img src="images/camft-member.jpg" alt="CAMFT Clinical Member" width="122" height="33" border="0" /></a><a href="https://secure.sussexdirectories.com/rms-sec/verification.php?id=50001" target="_blank"> <img src="images/psychology-today-verified.gif" alt="Pschology Today Verified Therapist" width="122" height="33" border="0" /></a></div>
+    <div id="footerText">&copy;2010 Beth Kanne-Casselman, MEd, LMFT. Information provided is for informational purposes only and is not intended to diagnose or treat symptoms. <br />Links to sites are not endorsements of the site or the organization represented.</div>
+  
+<!-- end #footer --></div>
+<script type="text/javascript">
+<!--
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+</script>
+</body>
+</html>
